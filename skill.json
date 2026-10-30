@@ -1,0 +1,11 @@
+{
+  "name": "genpark-agent-prd-spec-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Enterprise PRD and technical specification synthesizer generating structured user stories and API contracts",
+  "mcp": {
+    "server": "mcp_server.py",
+    "tools": [
+      "synthesize_prd"
+    ]
+  }
+}
